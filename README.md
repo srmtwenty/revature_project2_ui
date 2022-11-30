@@ -1,5 +1,8 @@
-Magic-And-Swords
-API
+# Magic And Swords - RESTful API
+
+![project6a](https://user-images.githubusercontent.com/68181312/204915631-2b1f33ee-fcf4-412d-9462-b05bc4485b74.png)
+
+![project6b](https://user-images.githubusercontent.com/68181312/204915641-b2483746-a395-4aa6-84e4-21b46324c3b6.png)
 
 About
 What is this?
@@ -18,10 +21,13 @@ The main feature of REST API is statelessness. Statelessness means that servers 
 The API is missing stuff!
 
 We know! Feel free to contribute to open issues on GitHub. You will have the ability to view, edit, add, and delete new Hero's, Armors, Weapons, and Items.  Have some fun.  That is what it is all about.
+
 So who built this?
 Magic-And-Swards was thought up and engineered by four amazing and well educated full-stack developers Dante Arceneaux, Scott Cho, Brenda Kinkade, and Tia Smith.  These promising and talented full-stack developers come from all different backgrounds and were put together by chance.  Their learning was very fast paced and intense.  They had many hurdles and struggles to overcome.  All of that did not matter to them because at the end of the day, they were a team no matter what.
 The Magic-And-Sword API took a lot of brainstorming and was a collaboration of many ideas put together.  It was a team learning project which helped them all in beginning their careers. 
+
 Documentation
+
 Information
 This is an informational and fully interactive API.  Hero’s, Armors, Weapons, and Items have the ability to be viewed, edited, added, and deleted.  No authentication is required to access this API, and all resources are fully open and available. 
     
